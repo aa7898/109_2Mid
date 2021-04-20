@@ -40,7 +40,7 @@ namespace _109_2Mid {
         }
         protected void btn_Sub_Click(object sender, EventArgs e)
         {
-            lb_Msg.Text = ddl_Area.SelectedValue + "</br>" + ddl_Place.SelectedValue + "</br>" + tb_Name.Text + "</br>" + rbl_Res.SelectedValue + "</br>" + tb_Des.Text;
+            lb_Msg.Text = ddl_Area.SelectedValue + "</br>" + ddl_Place.SelectedValue + "</br>" + tb_Name.Text + "</br>" + tb_Des.Text;
         }
 
        
